@@ -6,19 +6,19 @@ the database is seeded with the following customers with a Bank account for each
 [
   {
     "id": 1,
-    "name": "Arisha Barron"
+    "fullName": "Arisha Barron"
   },
   {
     "id": 2,
-    "name": "Branden Gibson"
+    "fullName": "Branden Gibson"
   },
   {
     "id": 3,
-    "name": "Rhonda Church"
+    "fullName": "Rhonda Church"
   },
   {
     "id": 4,
-    "name": "Georgina Hazel"
+    "fullName": "Georgina Hazel"
   }
 ]
 ```
